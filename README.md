@@ -30,3 +30,6 @@ cd your-repo-name
 
 # Install dependencies
 npm install  # or pip install -r requirements.txt, etc.
+
+For queries, contact: <!--email_off-->23f1000242@ds.study.iitm.ac.in<!--/email_off-->
+
